@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(230, 203, 171);
+}
+
+.Bevezeto{
+    background-color: rgb(236, 199, 154);
+    width: 1500px;
+    height: 60px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Kriszti{
+    background-color: rgb(148, 108, 63);
+    width: 500px;
+    height: 600px;
+    border-radius: 30px;
+    margin-left: 140px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Petra{
+    background-color: rgb(221, 158, 81);
+    width: 500px;
+    height: 600px;
+    border-radius: 30px;
+    margin-left: 215px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Ricsi{
+    background-color: rgb(179, 127, 64);
+    width: 500px;
+    height: 600px;
+    border-radius: 30px;
+    margin-left: 288px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+footer{
+    text-align: center;
+    color:rgb(167, 122, 67);
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+section{
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#krisztikep{
+    height: 200px;
+    margin-left: 70px;
+}
+
+#petrakep{
+    height: 200px;
+    margin-top: 136px;
+    margin-left: 123px;
+}
+
+#ricsikep{
+    height: 200px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
