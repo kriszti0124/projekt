@@ -1,3 +1,0 @@
-Ricsi:hálózat
-Kriszti:Python
-Petra:Html
